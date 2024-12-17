@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: ajjer
+Build-Jdk: Oracle OpenJDK 23
+

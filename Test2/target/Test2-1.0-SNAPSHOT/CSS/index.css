@@ -1,0 +1,45 @@
+.login {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+}
+.login h1 {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 20px;
+}
+.display {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+input.type {
+    padding: 10px;
+    font-size: 16px;
+}
+button.submit {
+    padding: 10px 20px;
+    background-color: #FFA500;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button.submit:hover {
+    background-color: #FF7F00;
+}
+.material-symbols-outlined {
+    font-size: 100px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Material Symbols Outlined', sans-serif;
+    background-color: #0047AB;
+    color: white;
+}
